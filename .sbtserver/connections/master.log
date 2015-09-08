@@ -1,0 +1,7 @@
+New log file opened at Tue Sep 08 13:35:18 CEST 2015 by 18190@jonathan
+Taking next connection to: 41459
+New client attempting to connect on port: 38395-41459
+  Address = /127.0.1.1:41459
+This client on port 38395 has uuid fe9dd3a7-0779-4576-ab3f-7674b3a17e52 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-fe9dd3a7-0779-4576-ab3f-7674b3a17e52
+Taking next connection to: 41459
