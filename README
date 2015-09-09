@@ -1,4 +1,11 @@
 This is your new Play application
 =================================
 
-This file will be packaged with your application, when using `activator dist`.
+This file will be packaged with your application, when using `activator dist`
+
+Creating a database:
+create database users;
+use users;
+CREATE TABLE userlist (id INT NOT NULL AUTO_INCREMENT, username CHAR(30) NOT NULL, password CHAR(64));
+
+.
