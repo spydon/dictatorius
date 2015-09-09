@@ -1,5 +1,8 @@
 logs
+*.iml
 target
+out
+/.sbtserver
 /.idea
 /.idea_modules
 /.classpath
