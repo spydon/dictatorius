@@ -1,0 +1,6 @@
+@(message: String, loggedIn: String)
+@if(loggedIn == "true"){
+    @mainLoggedIn(message) { You're logged in }
+} else {
+    @main(message) { You're not logged in }
+}

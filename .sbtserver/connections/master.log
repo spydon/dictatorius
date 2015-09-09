@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 New log file opened at Tue Sep 08 16:10:59 CEST 2015 by 6027@delvian
 Taking next connection to: 58107
 New client attempting to connect on port: 51300-58107
@@ -98,3 +99,15 @@ Taking next connection to: 58107
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
 Taking next connection to: 58107
+=======
+New log file opened at Wed Sep 09 14:01:00 CEST 2015 by 28517@Tito
+Taking next connection to: 40203
+New client attempting to connect on port: 55212-40203
+  Address = /127.0.1.1:40203
+This client on port 55212 has uuid d74c5842-fcd3-4a7b-a53e-e4b17c4abb53 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-d74c5842-fcd3-4a7b-a53e-e4b17c4abb53
+Taking next connection to: 40203
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 40203
+>>>>>>> 48e5f9262f13d82faccc4d6d7c9f046b5fae1238

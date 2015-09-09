@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 New log file opened at Tue Sep 08 16:10:59 CEST 2015 by 6027@delvian
 jvm 6027@delvian
 jvm vmName=OpenJDK 64-Bit Server VM vmVendor=Oracle Corporation vmVersion=25.60-b23
+=======
+New log file opened at Wed Sep 09 14:01:00 CEST 2015 by 28517@Tito
+jvm 28517@Tito
+jvm vmName=Java HotSpot(TM) 64-Bit Server VM vmVendor=Oracle Corporation vmVersion=25.60-b23
+>>>>>>> 48e5f9262f13d82faccc4d6d7c9f046b5fae1238
 jvm specName=Java Virtual Machine Specification specVendor=Oracle Corporation specVersion=1.8
 jvm arguments: [-Xms256m, -Xmx1024m]
 Starting event engine
@@ -25,6 +31,7 @@ sorting: ns: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.Jvm
   :: sorting:: found: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.JvmPlugin) not found List(sbt.plugins.JUnitXmlReportPlugin)
   :: sorting:: found: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.JvmPlugin, sbt.plugins.JUnitXmlReportPlugin) not found List()
   :: sorted deduced result: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.JvmPlugin, sbt.plugins.JUnitXmlReportPlugin)
+<<<<<<< HEAD
 [Loading] Done in /home/spydon/repos/dictorius/project, returning: (dictorius-build)
 Loading project definition from /home/spydon/repos/dictorius/project
 Running task... Cancel: sbt.TaskCancellationStrategy$Null$@2d4243c5, check cycles: false
@@ -14302,6 +14309,11 @@ all callers are evicted for org.tukaani#xz;1.4: evicting too
 	resolve done (3358ms resolve - 90ms download)
 [info] Done updating.
 Done updating.
+=======
+[Loading] Done in /home/jonathan/Desktop/dictatorius/project, returning: (dictatorius-build)
+Loading project definition from /home/jonathan/Desktop/dictatorius/project
+Running task... Cancel: sbt.TaskCancellationStrategy$Null$@154bc85a, check cycles: false
+>>>>>>> 48e5f9262f13d82faccc4d6d7c9f046b5fae1238
 
 Initial source changes: 
 	removed:Set()
