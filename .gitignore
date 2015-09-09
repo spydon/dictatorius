@@ -2,7 +2,7 @@ logs
 *.iml
 target
 out
-/.sbtserver
+.sbtserver
 /.idea
 /.idea_modules
 /.classpath

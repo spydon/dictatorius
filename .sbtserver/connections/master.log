@@ -1,7 +1,0 @@
-New log file opened at Wed Sep 09 19:04:09 CEST 2015 by 24513@jonathan
-Taking next connection to: 52786
-New client attempting to connect on port: 56735-52786
-  Address = /127.0.1.1:52786
-This client on port 56735 has uuid 4ca0c03a-fa7a-49aa-92db-d9a62fb9778a configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
-Connected Clients: play-fork-run-4ca0c03a-fa7a-49aa-92db-d9a62fb9778a
-Taking next connection to: 52786
