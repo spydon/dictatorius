@@ -21,3 +21,5 @@ routesGenerator := InjectedRoutesGenerator
 
 
 fork in run := true
+
+libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.27"
